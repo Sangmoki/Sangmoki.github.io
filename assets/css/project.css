@@ -11078,7 +11078,7 @@ body {
 }
 
 /* NULL Crowd Funding */
-.masthead .null {
+.null {
   position: relative;
   width: 100%;
   height: auto;
@@ -11092,7 +11092,7 @@ body {
 }
 
 /* The Teck Titan */
-.masthead .thetecktitan {
+.thetecktitan {
   position: relative;
   width: 100%;
   height: auto;
@@ -11106,7 +11106,7 @@ body {
 }
 
 /* 위시드 홈페이지 */
-.masthead .weseed {
+.weseed {
   position: relative;
   width: 100%;
   height: auto;
@@ -11120,7 +11120,7 @@ body {
 }
 
 /* 위시드 케어 */
-.masthead .weseedcare {
+.weseedcare {
   position: relative;
   width: 100%;
   height: auto;
@@ -11134,7 +11134,7 @@ body {
 }
 
 /* 위시드 마인드 */
-.masthead .weseedmind {
+.weseedmind {
   position: relative;
   width: 100%;
   height: auto;
