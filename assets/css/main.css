@@ -3952,6 +3952,21 @@ input, select, textarea {
 	height: 500px;
 }
 
+.about-title {
+	color:black;
+	font-weight: bold;
+}
+
+.about-content ul li {
+	color: black;
+	font-style: oblique;
+}
+
+.about-content small {
+	color: #635f5f;
+	font-size: 18px;
+}
+
 .introInner {
 	text-align: center;
 }
