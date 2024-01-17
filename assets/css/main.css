@@ -2673,8 +2673,8 @@ input, select, textarea {
 		display: flex;
 		cursor: default;
 		list-style: none;
-		margin-left: -1em;
 		padding-left: 0;
+		flex-direction: column;
 	}
 
 		ul.actions li {
@@ -3233,6 +3233,10 @@ input, select, textarea {
 					padding: 3em 2em 1em 2em ;
 				}
 
+				.intro-image {
+
+				}
+
 			}
 
 		.wrapper.alt {
@@ -3301,9 +3305,6 @@ input, select, textarea {
 						height: calc(100vh - 2.5em);
 					}
 
-					.introProfile {
-						display: none;
-					}
 			}
 
 			@media screen and (max-width: 736px) {
@@ -3827,6 +3828,7 @@ input, select, textarea {
 				text-align: center;
 				top: 0;
 				width: 100%;
+				display: none;
 			}
 
 				#sidebar > .inner {
@@ -3944,7 +3946,14 @@ input, select, textarea {
 }
 
 .introProfile {
-	display: none;
+	border-radius: 15em;
+	display: inline;
+	width: 500px;
+	height: 500px;
+}
+
+.introInner {
+	text-align: center;
 }
 
 /* 애니메이션을 정의합니다. */
