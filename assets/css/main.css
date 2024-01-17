@@ -3314,6 +3314,11 @@ input, select, textarea {
 						height: auto;
 					}
 
+					.introProfile {
+						height: 300px;
+						display: block;
+					}
+
 			}
 
 		.wrapper.fade-up > .inner {
@@ -3933,6 +3938,10 @@ input, select, textarea {
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
+}
+
+.innerProfile {
+	display: none;
 }
 
 /* 애니메이션을 정의합니다. */
