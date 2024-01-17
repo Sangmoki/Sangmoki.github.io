@@ -3939,6 +3939,11 @@ input, select, textarea {
 	text-align: center;
 }
 
+.wise {
+	text-align: center;
+	margin: 15px;
+}
+
 .profile {
 	width: 100%;
 	height: 100%;
