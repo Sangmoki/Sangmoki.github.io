@@ -3976,6 +3976,14 @@ input, select, textarea {
 	text-align: center;
 }
 
+.content-year {
+	font-weight: bold;
+}
+
+.content-company {
+	font-weight: bold;
+}
+
 /* 애니메이션을 정의합니다. */
 @keyframes progressBarAnimation {
 	to { width: var(--progress-value); }
