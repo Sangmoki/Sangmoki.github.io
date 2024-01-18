@@ -4,101 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="469355a3-94df-40e8-872d-1691c23b7e1f" name="Changes" comment="Feat: &quot;소스 이전 완료&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/fontawesome-all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/images/intro.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/noscript.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/breakpoints.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/browser.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.scrollex.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/base/_reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_actions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_box.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_features.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_menu.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_section.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_split.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_spotlights.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/components/_wrapper.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_intro.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_sidebar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_html-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/libs/_vendor.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/sass/noscript.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/angular.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/css.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/html.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/java.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/javascript.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/kakao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/kakao.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nodejs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/notion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/notion.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nullFunding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/spring.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/theTeckTitan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/typescript.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/velog.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/velog.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/weseed-care.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/weseed-homepage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/weseed-homepage2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/weseed-mind.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/이상목.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/이상목2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/이상목3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/nullFunding.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/theTeckTitan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/weseed-care.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/weseed-homepage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/weseed-mind.html" afterDir="false" />
-    </list>
+    <list default="true" id="469355a3-94df-40e8-872d-1691c23b7e1f" name="Changes" comment="Feat: &quot;소스 이전 완료&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +30,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/이상목/workspace/03_project/weseedcare/weseedcare-was",
     "node.js.detected.package.eslint": "true",
@@ -147,6 +53,7 @@
       <workItem from="1705451940649" duration="440000" />
       <workItem from="1705452398021" duration="18000" />
       <workItem from="1705452448246" duration="28000" />
+      <workItem from="1705490642681" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
