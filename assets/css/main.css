@@ -3199,6 +3199,8 @@ input, select, textarea {
 				border-top: 0;
 			}
 
+
+
 /* Wrapper */
 
 	.wrapper {
@@ -3211,18 +3213,44 @@ input, select, textarea {
 			width: 75em;
 		}
 
+		.intro-image {
+			text-align: center;
+		}
+
+		.inner-main {
+			text-align: center;
+			padding: 10px;
+		}
+
 			@media screen and (max-width: 1680px) {
 
 				.wrapper > .inner {
 					padding: 4em 4em 2em 4em ;
 				}
 
+				.intro-image {
+					text-align: center;
+				}
+
+				.inner-main {
+					text-align: center;
+					padding: 10px;
+				}
 			}
 
 			@media screen and (max-width: 1280px) {
 
 				.wrapper > .inner {
 					width: 100%;
+				}
+
+				.intro-image {
+					text-align: center;
+				}
+
+				.inner-main {
+					text-align: center;
+					padding: 10px;
 				}
 
 			}
@@ -3234,7 +3262,12 @@ input, select, textarea {
 				}
 
 				.intro-image {
+					text-align: center;
+				}
 
+				.inner-main {
+					text-align: center;
+					padding: 10px;
 				}
 
 			}
@@ -3268,7 +3301,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style4 {
-			background-color: #59b4df;
+			background-color: #add8e6;
 		}
 
 		.wrapper.style4-alt {
@@ -4004,6 +4037,7 @@ progress[value] {
 	--progress-value: 0;
 	animation: progressBarAnimation 2s ease-out forwards;
 }
+
 
 /* 각 프로그레스 바에 대한 고유한 스타일을 설정합니다. */
 #three progress[value="10"] {
